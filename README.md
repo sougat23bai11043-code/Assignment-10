@@ -113,7 +113,7 @@ gunicorn app:app
 **Render URL:**
 
 ```
-Paste your Render deployment URL here after deployment.
+https://assignment-10-lnmd.onrender.com
 ```
 
 ---
